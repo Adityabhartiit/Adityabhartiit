@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning- **Web Development.**
 
-- 👯 I’m looking to collaborate on **sdfg**
+- 👯 I’m looking to collaborate on **Cool Project.**
 
-- 🤝 I’m looking for help with **dsfg**
+- 🤝 I’m looking for help with **how to get a Job.**
 
 - 💬 Ask me about **C++ and Web Development.**
 
